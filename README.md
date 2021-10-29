@@ -1,5 +1,7 @@
 <p align='center'> 
-  <img  width="1280" src="Profile.gif"
+  <a href="https://github.com/beritlin?tab=stars">
+  <img  width="1280" src="Profile.gif">
+   </a>
 </p>
 <p align='center'>
   <a href="https://www.facebook.com/berit.lin">
