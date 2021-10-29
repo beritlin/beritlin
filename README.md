@@ -1,10 +1,11 @@
 <p align='center'> 
-  <img  width="1280" src="https://github.com/beritlin/beritlin/blob/master/Profile.gif"
+  <img  width="1280" src="Profile.gif"
 </p>
 <p align='center'>
-  <a herf="https://www.facebook.com/berit.lin"><img height="30" src="https://github.com/beritlin/beritlin/blob/master/icons/facebook.png"></a>&nbsp;&nbsp;
-  <a herf="https://www.instagram.com/beritlin/"><img height="30" src="https://github.com/beritlin/beritlin/blob/master/icons/instagram.png"></a>&nbsp;&nbsp;
-  <a herf="https://twitter.com/PeiYuLin11"><img height="30" src="https://github.com/beritlin/beritlin/blob/master/icons/twitter.png"></a>&nbsp;&nbsp;
+  <a><img height="30" src="./icons/facebook.png" herf="https://www.facebook.com/berit.lin"></a>&nbsp;&nbsp;
+  <a ><img height="30" src="./icons/instagram.png" herf="https://www.instagram.com/beritlin/"></a>&nbsp;&nbsp;
+  <img height="30" src="./icons/twitter.png" herf="https://twitter.com/PeiYuLin11">&nbsp;&nbsp;
 </p>
+
 
 
