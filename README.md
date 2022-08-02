@@ -1,6 +1,6 @@
 <p align='center'> 
   <a href="https://github.com/beritlin?tab=stars">
-  <img  width="1280" src="Profile.gif">
+  <img  width="100%" src="Profile.gif">
    </a>
 </p>
 <p align='center'>
